@@ -49,7 +49,7 @@ Hi, I'm Thanh HoangVan - Computer Vision Engineer
 </div>
 
 <div>
-<h2> Published Papers <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-work.gif" width = 40px></h2>
+<h2> Published Papers <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-write.gif" width = 40px></h2>
 - Updating...
 </div>
 
