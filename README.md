@@ -1,6 +1,6 @@
 <div align="center">
 <h2><img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 60px>
-Thanh HoangVan - Computer Vision Engineer
+Hi, I'm Thanh HoangVan - Computer Vision Engineer
 <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 60px></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue"/>
