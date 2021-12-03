@@ -65,3 +65,5 @@ Thanh HoangVan - Computer Vision Engineer
 <div align="center">
 <image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif">
 </div>
+
+<p>Last update: 04/12/2021</p>
