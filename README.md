@@ -24,6 +24,8 @@
 <a href="https://www.linkedin.com/in/thanhhoangvan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
+<br>
+
 <div align="center">
 <image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/e60e6bf31916a870a17a210d2347e0828ba1b6f4/src/images/light.gif">
 </div>
