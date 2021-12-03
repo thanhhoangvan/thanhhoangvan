@@ -25,6 +25,9 @@ Thanh HoangVan - Computer Vision Engineer
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/OpenCV.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/TensorFlow.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/django.svg"></code>
+<h3> Platforms </h3>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Colab.svg"></code>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/GCP.svg"></code>
 <h3> Operating Systems </h3>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Ubuntu.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Windows.svg"></code>
