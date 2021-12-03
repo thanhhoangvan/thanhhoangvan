@@ -9,11 +9,15 @@
 </div>
 
 <div>
-<h2> About Me </h2>
+<h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 32px></h2>
 </div>
 
 <div>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+</div>
+
+<div>
+<h2> Projects <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 </div>
 
 <div>
@@ -27,5 +31,5 @@
 <br>
 
 <div align="center">
-<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/e60e6bf31916a870a17a210d2347e0828ba1b6f4/src/images/light.gif">
+<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif">
 </div>
