@@ -17,7 +17,7 @@ Thanh HoangVan - Computer Vision Engineer
 <div>
 <h2> Skills <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-project.gif" width = 40px></h2>
 <h3> Programming Languages </h3>
-<img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/python.svg">
+<code><img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/python.svg"></code>
 <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/c-original.svg">
 <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/cpp.svg">
 <h3> Libraries and Frameworks </h3>
