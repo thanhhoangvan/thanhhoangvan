@@ -8,6 +8,6 @@
 </p>
 </div>
 
-<div align="center>
-<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/e60e6bf31916a870a17a210d2347e0828ba1b6f4/src/images/light.gif" width=50%>
+<div align="center">
+<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/e60e6bf31916a870a17a210d2347e0828ba1b6f4/src/images/light.gif" width=70%>
 </div>
