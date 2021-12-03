@@ -9,5 +9,11 @@
 </div>
 
 <div align="center">
-<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/e60e6bf31916a870a17a210d2347e0828ba1b6f4/src/images/light.gif" width=auto>
+<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/e60e6bf31916a870a17a210d2347e0828ba1b6f4/src/images/light.gif">
+</div>
+
+<br>
+
+<div>
+<h2> About Me </h2>
 </div>
