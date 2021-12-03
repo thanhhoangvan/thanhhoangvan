@@ -1,5 +1,7 @@
 <div align="center">
-<h2> Thanh HoangVan - Computer Vision Engineer</h2>
+<h2><img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 40px>
+Thanh HoangVan - Computer Vision Engineer
+<img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 40px></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue"/>
 <img src="https://img.shields.io/badge/Forus-Computer%20Vision-green"/>
@@ -9,11 +11,11 @@
 </div>
 
 <div>
-<h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 40px></h2>
+<h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-AboutMe.gif" width = 40px></h2>
 </div>
 
 <div>
-<h2> Skills <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-work.gif" width = 40px></h2>
+<h2> Skills <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-project.gif" width = 40px></h2>
 </div>
 
 <div>
