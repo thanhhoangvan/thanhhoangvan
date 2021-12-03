@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Country-Viet%20Nam-red"/>
 <br>
 <img src="https://img.shields.io/github/followers/thanhhoangvan?label=Github&logo=github&style=social"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </p>
 </div>
 
