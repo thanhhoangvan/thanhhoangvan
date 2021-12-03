@@ -1,1 +1,1 @@
-![Hey there, I'm Thanh HoangVan. I'm a Computer Vision Engineer. Check out my work](https://github.com/thanhhoangvan/thanhhoangvan/raw/master/dark.gif)
+![Hey there, I'm Thanh HoangVan. I'm a Computer Vision Engineer. Check out my work](https://github.com/thanhhoangvan/thanhhoangvan/src/images/raw/master/dark.gif)
