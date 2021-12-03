@@ -9,7 +9,7 @@
 </div>
 
 <div>
-<h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 32px></h2>
+<h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 40px></h2>
 </div>
 
 <div>
