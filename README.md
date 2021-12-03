@@ -12,6 +12,7 @@ Thanh HoangVan - Computer Vision Engineer
 
 <div>
 <h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-AboutMe.gif" width = 40px></h2>
+- Updating...
 </div>
 
 <div>
@@ -35,6 +36,12 @@ Thanh HoangVan - Computer Vision Engineer
 
 <div>
 <h2> Main Projects <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-work.gif" width = 40px></h2>
+- Updating...
+</div>
+
+<div>
+<h2> Published Papers <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-work.gif" width = 40px></h2>
+- Updating...
 </div>
 
 <div>
