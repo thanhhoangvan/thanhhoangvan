@@ -5,7 +5,9 @@ Hi, I'm Thanh HoangVan
 
 <br>
 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer;Django+Web+Developer)](https://git.io/typing-svg)
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue"/>
