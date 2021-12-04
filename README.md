@@ -34,6 +34,11 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 </div>
 </div>
 
+<div align="center">
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/quotes.json)
+</div>
+
 <div>
 <h2> Skills <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-project.gif" width = 40px></h2>
 <div align="center">
