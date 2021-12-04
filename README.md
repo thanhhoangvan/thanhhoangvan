@@ -21,7 +21,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <div>
 <h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-AboutMe.gif" width = 40px></h2>
 
-<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" align="right" widht=200>
+<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" align="right" width=200>
 
 <div align="left" width = 50%>
 <ul>
