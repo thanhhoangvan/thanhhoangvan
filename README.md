@@ -20,9 +20,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 
 <div>
 <h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-AboutMe.gif" width = 40px></h2>
-
 <image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" align="right" width=400>
-
 <div align="left" width = 50%>
 <ul>
 <li>1</li>
@@ -31,8 +29,9 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <li>4</li>
 </ul>
 </div>
-
 </div>
+
+<br>
 
 <div>
 <h2> Skills <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-project.gif" width = 40px></h2>
