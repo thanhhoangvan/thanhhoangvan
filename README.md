@@ -81,4 +81,4 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 
 <p>Last update: 04/12/2021</p>
 
-![GitHub Views](https://komarev.com/ghpvc/?username="thanhhoangvan")
+![GitHub Views](https://komarev.com/ghpvc/?username=thanhhoangvan)
