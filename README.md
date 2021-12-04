@@ -20,7 +20,12 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 
 <div>
 <h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-AboutMe.gif" width = 40px></h2>
-- Updating...
+
+<div align="right">
+<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" widht=40%>
+</div>
+
+
 </div>
 
 <div>
@@ -70,12 +75,6 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <a href="https://t.me/@thanhhoangvan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.messenger.com/t/100007611788114"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/thanhhoangvan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
-
-<br>
-
-<div align="center">
-<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif">
 </div>
 
 <p>Last update: 04/12/2021</p>
