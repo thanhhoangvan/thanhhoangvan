@@ -33,8 +33,6 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <li>4</li>
 <li>1</li>
 <li>2</li>
-<li>3</li>
-<li>4</li>
 </ul>
 </div>
 </div>
