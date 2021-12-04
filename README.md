@@ -23,9 +23,9 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" align="right" width=400>
 <div align="left" width = 50%>
 <ul>
-<li>1</li>
-<li>2</li>
-<li>3</li>
+<li>I'm a student at School of Applied Mathematics and Informatics(SAMI of HUST).</li>
+<li>In the future, I will pursue to Master of Business Administration, Doctor of Philosophy in Applied Mathematics, and Computational Science.</li>
+<li>I like to learn things around programming, how computers work and how to make them as smart as humans.</li>
 <li>4</li>
 <li>1</li>
 <li>2</li>
