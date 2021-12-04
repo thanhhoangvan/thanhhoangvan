@@ -31,6 +31,8 @@ Hi, I'm Thanh HoangVan - Computer Vision Engineer
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Docker.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/OpenCV.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/TensorFlow.svg"></code>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/jupyter.svg"></code>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/jupyter.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/git.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/gitlab.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/trello.svg"></code>
@@ -39,15 +41,11 @@ Hi, I'm Thanh HoangVan - Computer Vision Engineer
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/mysql.svg"></code>
 </div>
 <div align="center">
-<h3> Platforms </h3>
+<h3> Platforms and OS </h3>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Colab.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/GCP.svg"></code>
-</div>
-<div align="center">
-<h3> Operating Systems </h3>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Ubuntu.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Windows.svg"></code>
-</div>
 </div>
 
 <div>
