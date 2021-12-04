@@ -1,6 +1,6 @@
 <div align="center">
 <h1><img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 60px>
-Hi, I'm Thanh HoangVan
+Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 60px></h1>
 
 <br>
