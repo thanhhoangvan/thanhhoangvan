@@ -47,7 +47,7 @@ Hi, I'm Thanh HoangVan - Computer Vision Engineer
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Ubuntu.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Windows.svg"></code>
 </div>
-
+</div>
 <div>
 <h2> Main Projects <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-work.gif" width = 40px></h2>
 - Updating...
