@@ -27,7 +27,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <li>In the future, I will pursue to Master of Business Administration, Doctor of Philosophy in Applied Mathematics, and Computational Science.</li>
 <li>I like to learn things around programming, how computers work and how to make them as smart as humans.</li>
 <li>My projects are mainly around computer vision, robotics, autonomous vehicles.</li>
-<li>My research direction focuses on computer vision, applying neuroscience to simulate brain activity to process information to make AI systems smarter.</li>
+<li>My research direction focuses on computer vision, applying neuroscience to computers, simulating how the brain processes information to make AI systems smarter.</li>
 </ul>
 </div>
 </div>
