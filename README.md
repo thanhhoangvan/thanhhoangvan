@@ -70,7 +70,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 </div>
 <div>
 <h2> Main Projects <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-work.gif" width = 40px></h2>
-- Updating...
+- <a href="https://github.com/thanhhoangvan/BKAR">BKAR - Mini Self-driving Car</a>
 </div>
 
 <div>
