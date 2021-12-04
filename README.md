@@ -3,7 +3,7 @@
 Hi, I'm Thanh HoangVan
 <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 60px></h2>
 
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer;Django+Web+Developer)](https://git.io/typing-svg)
 
