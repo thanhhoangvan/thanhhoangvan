@@ -79,6 +79,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <a href="https://www.linkedin.com/in/thanhhoangvan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<p>Last update: 04/12/2021</p>
+<p>Last update: 04/12/2021 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=thanhhoangvan)
+</p>
