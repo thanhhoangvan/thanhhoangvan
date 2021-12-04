@@ -32,7 +32,11 @@ Hi, I'm Thanh HoangVan - Computer Vision Engineer
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/OpenCV.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/TensorFlow.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/git.svg"></code>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/gitlab.svg"></code>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/trello.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/django.svg"></code>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/bootstrap.svg"></code>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/mysql.svg"></code>
 </div>
 <div align="center">
 <h3> Platforms </h3>
