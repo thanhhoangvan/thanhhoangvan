@@ -23,11 +23,11 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" align="right" width=400>
 <div align="left" width = 50%>
 <ul>
-🎓I'm a student at School of Applied Mathematics and Informatics(SAMI of HUST).
-<li>In the future, I will pursue to Master of Business Administration, Doctor of Science in Applied Mathematics, Computer Science, and Data Science.</li>
-<li>I like to learn things around programming, how computers work and how to make them as smart as humans.</li>
-<li>My projects are mainly around computer vision, robotics, autonomous vehicles.</li>
-<li>My research direction focuses on computer vision, applying neuroscience to computers, simulating how the brain processes information to make AI systems smarter.</li>
+<li> 🎓 I'm a student at School of Applied Mathematics and Informatics(SAMI of HUST).</li>
+<li> 🛰 In the future, I will pursue to Master of Business Administration, Doctor of Science in Applied Mathematics, Computer Science, and Data Science.</li>
+<li> 💪 I like to learn things around programming, how computers work and how to make them as smart as humans.</li>
+<li> 👨🏻‍💻 My projects are mainly around computer vision, robotics, autonomous vehicles.</li>
+<li> 📚 My research direction focuses on computer vision, applying neuroscience to computers, simulating how the brain processes information to make AI systems smarter.</li>
 </ul>
 </div>
 </div>
