@@ -21,11 +21,9 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <div>
 <h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-AboutMe.gif" width = 40px></h2>
 
-<div align="right" width=50%>
-<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" widht=40%>
-</div>
+<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" align="right" widht=40%>
 
-<div align = left width = 50%>
+<div align="left" width = 50%>
 <ul>
 <li>1</li>
 <li>2</li>
