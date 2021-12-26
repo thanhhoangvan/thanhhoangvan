@@ -7,7 +7,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer/Research;Data+Engineer;Django+Web+Developer[Freelancer])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer/Research   ;Data+Engineer;Django+Web+Developer[Freelancer]   )](https://git.io/typing-svg)
 </p>
 
 <p align="center">
@@ -32,11 +32,6 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <li> 📚 My research direction focuses on <b>computer vision</b>, applying <b>neuroscience</b> to computers, simulating how the brain processes information to make AI systems smarter.</li>
 </ul>
 </div>
-</div>
-
-<div align="center">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/quotes.json)
 </div>
 
 <div>
