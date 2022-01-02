@@ -66,6 +66,9 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <div>
 <h2> Main Projects <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-work.gif" width = 40px></h2>
 - <a href="https://github.com/thanhhoangvan/BKAR">BKAR - Mini Self-driving Car</a>
+- <a href="https://github.com/progit2-vietnamese/progit2-vi">Sách Pro Git 2 tiếng Việt</a>
+- <a href="https://github.com/thanhhoangvan/AI_Cam">AI Camera</a>
+- <a href="https://github.com/thanhhoangvan/View-Facebook-Data">View Facebook Data</a>
 </div>
 
 <div>
@@ -81,4 +84,4 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <a href="https://www.linkedin.com/in/thanhhoangvan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<p>Last update: 04/12/2021</p>
+<p>Last update: 02/1/2021</p>
