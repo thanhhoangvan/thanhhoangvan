@@ -59,6 +59,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <h3> Platforms and Operating Systems </h3>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Colab.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/GCP.png"></code>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/AWS.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Ubuntu.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Windows.svg"></code>
 </div>
