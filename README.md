@@ -35,7 +35,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 </div>
 
 <div align="center">
-<h1><b>Ambitious - Passion- Enthusiasm - Responsibility</b></h1>
+<h1><b>Ambitious - Passion- Enthusiastic - Responsible</b></h1>
 </div>
 
 <div>
