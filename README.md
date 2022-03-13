@@ -34,6 +34,10 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 </div>
 </div>
 
+<div align="center">
+<h1><b>Ambitious - Passion- Enthusiasm - Responsibility</b></h1>
+</div>
+
 <div>
 <h2> Skills <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-project.gif" width = 40px></h2>
 <div align="center">
@@ -87,4 +91,4 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <a href="https://www.linkedin.com/in/thanhhoangvan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<p>Last update: 05/1/2021</p>
+<p>Last update: 14/3/2022</p>
