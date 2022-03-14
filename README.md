@@ -32,7 +32,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <li> 📚 My research direction focuses on <b>computer vision</b>, applying <b>neuroscience</b> to computers, simulating how the brain processes information to make AI systems smarter.</li>
 </ul>
 
-<h1 align="center"><b>Ambitious - Passion- Enthusiastic - Responsible</b></h1>
+<h2 align="center"><b>Ambitious - Passion- Enthusiastic - Responsible</b></h2>
 </div>
 </div>
 
