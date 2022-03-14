@@ -31,12 +31,11 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <li> 👨🏻‍💻 My projects are mainly around <b>computer vision</b>, <b>robotics</b>, <b>autonomous vehicles</b>.</li>
 <li> 📚 My research direction focuses on <b>computer vision</b>, applying <b>neuroscience</b> to computers, simulating how the brain processes information to make AI systems smarter.</li>
 </ul>
+
+<h1 align="center"><b>Ambitious - Passion- Enthusiastic - Responsible</b></h1>
 </div>
 </div>
 
-<div align="center">
-<h1><b>Ambitious - Passion- Enthusiastic - Responsible</b></h1>
-</div>
 
 <div>
 <h2> Skills <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-project.gif" width = 40px></h2>
