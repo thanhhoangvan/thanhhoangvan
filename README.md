@@ -4,7 +4,6 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 60px></h1>
 
 <br>
-
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer/Research;Django+Web+Developer[Freelancer])](https://git.io/typing-svg)
@@ -17,6 +16,9 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <img src="https://img.shields.io/badge/Country-Viet%20Nam-red"/>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=thanhhoangvan)
+ 
+<a href="https://www.buymeacoffee.com/thanhhoangvan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+ 
 </p>
 </div>
 
@@ -90,4 +92,4 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <a href="https://www.linkedin.com/in/thanhhoangvan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<p>Last update: 14/3/2022</p>
+<p>Last update: 22/4/2022</p>
