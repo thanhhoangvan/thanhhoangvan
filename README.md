@@ -1,7 +1,7 @@
 <div align="center">
-<h1><img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 60px>
+<h1><img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60">
 Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
-<img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = 60px></h1>
+<img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60"></h1>
 
 <br>
 <p align="center">
@@ -23,8 +23,8 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 </div>
 
 <div>
-<h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-AboutMe.gif" width = 40px></h2>
-<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" align="right" width=400>
+<h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-AboutMe.gif" width = "40"></h2>
+<image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" align="right" width="400">
 <div align="left" width = 50%>
 <ul>
 <li> 🎓 I'm a student at <b>School of Applied Mathematics and Informatics(SAMI of HUST)</b>.</li>
@@ -40,7 +40,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 
 
 <div>
-<h2> Skills <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-project.gif" width = 40px></h2>
+<h2> Skills <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-project.gif" width = "40"></h2>
 <div align="center">
 <h3> Programming Languages </h3>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/python.svg"></code>
@@ -71,12 +71,12 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 </div>
 
 <div>
-<h2> Published Papers <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-write.gif" width = 40px></h2>
+<h2> Published Papers <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-write.gif" width = "40"></h2>
 - Updating...
 </div>
 
 <div>
-<h2> Connect with me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-connect.gif" width = 40px></h2>
+<h2> Connect with me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-connect.gif" width = "40"></h2>
 <a href="mailto:thanh.hoangvan051199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/@thanhhoangvan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.messenger.com/t/100007611788114"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
