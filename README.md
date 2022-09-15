@@ -53,6 +53,8 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/OpenCV.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/TensorFlow.svg"></code>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/PyTorch.svg"></code>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/TensorRT.png"></code>
+<code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/DeepStream.jpeg"></code>
 
 <h3> Others </h3>
 <code><img height="50" src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/icons/Docker.svg"></code>
