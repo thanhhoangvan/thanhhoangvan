@@ -1,11 +1,21 @@
 <div align="center">
-<h1><img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60">
-Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
-<img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60"></h1>
+<h1>
+    <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60">
+    Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
+    <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60">
+
+<div align="center">
+    <a href="mailto:thanh.hoangvan051199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://t.me/@thanhhoangvan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://www.messenger.com/t/100007611788114"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/thanhhoangvan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+</h1>
+
 
 <br>
-<p align="center">
 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer/Researcher;Django/Flask+Web+Developer)](https://git.io/typing-svg)
 </p>
 
@@ -79,16 +89,13 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 </div>
 
 <div>
-<h2> Published Papers <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-write.gif" width = "40"></h2>
-- Updating...
+<h2> Portfolio <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-connect.gif" width = "40"></h2>
+- Updating
 </div>
 
 <div>
-<h2> Connect with me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-connect.gif" width = "40"></h2>
-<a href="mailto:thanh.hoangvan051199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://t.me/@thanhhoangvan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.messenger.com/t/100007611788114"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/thanhhoangvan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<h2> Published Papers <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-write.gif" width = "40"></h2>
+- Updating...
 </div>
 
 <p>Last update: 16/09/2022</p>
