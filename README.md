@@ -30,10 +30,10 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=thanhhoangvan)
  
 <a href="https://www.buymeacoffee.com/thanhhoangvan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
- 
 </p>
 </div>
 
+<hr>
 <div>
 <h2> About Me <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-AboutMe.gif" width = "40"></h2>
 <image src="https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/light.gif" align="right" width="400">
@@ -90,19 +90,23 @@
 </div>
 </div>
 
+<hr>
 <div>
 <h2> Portfolio <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-connect.gif" width = "40"></h2>
 - Updating
 </div>
 
+<hr>
 <div>
 <h2> Published Papers <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-write.gif" width = "40"></h2>
 - Updating...
 </div>
 
+<hr>
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thanhhoangvan&theme=monokai&border_radius=9&background=2200B9)](https://git.io/streak-stats)
 </div>
 
+<hr>
 <p>Last update: 16/09/2022</p>
