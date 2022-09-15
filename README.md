@@ -2,7 +2,7 @@
 <h1>
     <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60">
     Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
-    <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60">
+    <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60" />
 
 <div align="center">
     <a href="mailto:thanh.hoangvan051199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -16,7 +16,9 @@
 <br>
 
 <p align="center">
-    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer/Researcher;Django/Flask+Web+Developer)](https://git.io/typing-svg)
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Vision+Engineer%2FResearcher;Automation%2FRobotic%2FEdge-Devices" alt="Typing SVG" />
+    </a>
 </p>
 
 <p align="center">
