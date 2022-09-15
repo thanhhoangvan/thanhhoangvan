@@ -100,4 +100,9 @@
 - Updating...
 </div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thanhhoangvan&theme=monokai&border_radius=9&background=2200B9)](https://git.io/streak-stats)
+</div>
+
 <p>Last update: 16/09/2022</p>
