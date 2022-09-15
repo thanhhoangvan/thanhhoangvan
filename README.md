@@ -105,7 +105,7 @@
 <hr>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thanhhoangvan&theme=monokai&border_radius=9&background=2200B9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thanhhoangvan&theme=gruvbox&border_radius=9&date_format=j%2Fn%5B%2FY%5D&border=000000&background=DD0000&stroke=FFFFFF&ring=F1FF4F&fire=FFF263&currStreakNum=FFF344&sideNums=DDDC4B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 </div>
 
 <hr>
