@@ -6,7 +6,7 @@ Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
 <br>
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer/Researcher;Django/Flask+Web+Developer[Freelancer])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision+Engineer/Researcher;Django/Flask+Web+Developer)](https://git.io/typing-svg)
 </p>
 
 <p align="center">
