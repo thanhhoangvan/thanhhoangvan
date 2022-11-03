@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
     <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60">
-    Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh HoangVan</a>
+    Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh(Tim) HoangVan</a>
     <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60" />
 
 <div align="center">
