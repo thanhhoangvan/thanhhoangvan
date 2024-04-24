@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue"/>
+<img src="https://img.shields.io/badge/Age-24-blue"/>
 <img src="https://img.shields.io/badge/Focus-Computer%20Vision-green"/>
 <img src="https://img.shields.io/badge/University-HUST-green"/>
 <img src="https://img.shields.io/badge/Country-Viet%20Nam-red"/>
@@ -35,7 +35,7 @@
 <ul>
 <li> 🎓 I'm a student at <b>School of Applied Mathematics and Informatics(SAMI of HUST)</b>.</li>
 <li> 🛰 In the future, I will pursue to <b>Master of Business Administration</b>, <b>Doctor of Science</b> in <b>Applied Mathematics</b>, <b>Computer Science</b>, and <b>Data Science</b>.</li>
-<li> 💪 I like to learn things around programming, how computers work and how to make them as smart as humans.</li>
+<li> 💪 I like to learn things about programming, how computers work, and how to make them as smart as humans.</li>
 <li> 👨🏻‍💻 My projects are mainly around <b>computer vision</b>, <b>robotics</b>, <b>autonomous vehicles</b>.</li>
 <li> 📚 My research direction focuses on <b>computer vision</b>, applying <b>neuroscience</b> to computers, simulating how the brain processes information to make AI systems smarter.</li>
 </ul>
@@ -106,4 +106,4 @@
 </div>
 
 <hr>
-<p>Last update: 16/09/2022</p>
+<p>Last update: 24/04/2024</p>
