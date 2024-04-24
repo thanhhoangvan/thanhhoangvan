@@ -3,13 +3,7 @@
     <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60">
     Hi, I'm <a href="https://github.com/thanhhoangvan">Thanh(Tim) HoangVan</a>
     <img src = "https://github.com/thanhhoangvan/thanhhoangvan/blob/main/src/images/capoo-bugcat.gif" width = "60" />
-
-<div align="center">
-    <a href="mailto:thanh.hoangvan051199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://t.me/@thanhhoangvan"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://www.messenger.com/t/100007611788114"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/thanhhoangvan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+    
 </h1>
 
 
